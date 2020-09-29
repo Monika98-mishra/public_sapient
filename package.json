@@ -33,5 +33,9 @@
   },
   "devDependencies": {
     "axios": "^0.20.0"
+  },
+  "engines": {
+    "node": "10.17.0",
+    "npm": "6.11.3"
   }
 }
